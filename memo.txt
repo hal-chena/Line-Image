@@ -6,3 +6,4 @@ MemeImage-->問號、傻眼、...
 MoneyMany-->錢多
 MoneyMoney-->錢錢
 OtherDrawing-->抽
+meme-->抽梗圖
